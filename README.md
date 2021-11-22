@@ -1,5 +1,12 @@
-# pandas-challenge-
-homework pandas
+#pandas-challenge-
+
+#Observable Trends discovered:
+
+-84.03% of the buyers are MALE players, with a mere 14.06% of the purchases appertaining FEMALE players and only 1.91% of the buyers categorised themselves as OTHER/NON DISCLOSED
+-The Average Purchase Price by both GENDER and AGE stay all under $4.
+-ITEM 92 "Final Critic" is both the most POPULAR and PROFITABLE item.
+
+#INSTRUCTIONS:
 
 Heroes of Pymoli
 
